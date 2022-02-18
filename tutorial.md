@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial
 Ever wonder how when you search for something, the computer sometimes knows how to find the data you're looking for? What about validating data format when searching? Or how you would find things in varying degrees of literalness or specificity? The answer is using search patterns through regular expressions, or regex.
 
 A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
